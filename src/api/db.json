@@ -1,0 +1,74 @@
+{
+  "react-ts":[
+    {
+      "No": "1",
+      "Name": "Johnson - Kutch",
+      "description": "Fully-configurable intermediate framework. Ullam occaecati libero laudantium nihil voluptas omnis.",
+      "imageUrl": "/assets/placeimg_500_300_arch4.jpg",
+      "contractTypeId": 3,
+      "contractSignedOn": "2013-08-04T22:39:41.473X",
+      "budget": 54637,
+      "isActive": false
+    },
+    {
+      "No": "2",
+      "Name": "Johnson - Kutch",
+      "description": "Fully-configurable intermediate framework. Ullam occaecati libero laudantium nihil voluptas omnis.",
+      "imageUrl": "/assets/placeimg_500_300_arch4.jpg",
+      "contractTypeId": 3,
+      "contractSignedOn": "2013-08-04T22:39:41.473X",
+      "budget": 54637,
+      "isActive": false
+    },
+    {
+      "No": "2",
+      "Name": "Johnson - Kutch",
+      "description": "Fully-configurable intermediate framework. Ullam occaecati libero laudantium nihil voluptas omnis.",
+      "imageUrl": "/assets/placeimg_500_300_arch12.jpg",
+      "contractTypeId": 3,
+      "contractSignedOn": "2013-08-04T22:39:41.473X",
+      "budget": 54637,
+      "isActive": false
+    },
+    {
+      "No": "3",
+      "Name": "Johnson - Kutch",
+      "description": "Fully-configurable intermediate framework. Ullam occaecati libero laudantium nihil voluptas omnis.",
+      "imageUrl": "/assets/placeimg_500_300_arch5.jpg",
+      "contractTypeId": 3,
+      "contractSignedOn": "2013-08-04T22:39:41.473X",
+      "budget": 54637,
+      "isActive": false
+    },
+    {
+      "No": "4",
+      "Name": "Johnson - Kutch",
+      "description": "Fully-configurable intermediate framework. Ullam occaecati libero laudantium nihil voluptas omnis.",
+      "imageUrl": "/assets/placeimg_500_300_arch5.jpg",
+      "contractTypeId": 3,
+      "contractSignedOn": "2013-08-04T22:39:41.473X",
+      "budget": 54637,
+      "isActive": false
+    },
+    {
+      "No": "5",
+      "Name": "Johnson - Kutch",
+      "description": "Fully-configurable intermediate framework. Ullam occaecati libero laudantium nihil voluptas omnis.",
+      "imageUrl": "/assets/placeimg_500_300_arch12.jpg",
+      "contractTypeId": 3,
+      "contractSignedOn": "2013-08-04T22:39:41.473X",
+      "budget": 54637,
+      "isActive": false
+    },
+    {
+      "No": "6",
+      "Name": "Johnson - Kutch",
+      "description": "Fully-configurable intermediate framework. Ullam occaecati libero laudantium nihil voluptas omnis.",
+      "imageUrl": "/assets/placeimg_500_300_arch1.jpg",
+      "contractTypeId": 3,
+      "contractSignedOn": "2013-08-04T22:39:41.473X",
+      "budget": 54637,
+      "isActive": false
+    }
+  ]
+}
